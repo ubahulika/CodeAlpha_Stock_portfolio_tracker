@@ -1,6 +1,7 @@
 # Stock Portfolio Tracker 📈
 
  📌 Project Description
+ 
 This project allows users to:
 1. Enter stock names and quantities
 2. Calculate total investment value
